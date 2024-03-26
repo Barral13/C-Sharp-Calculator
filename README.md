@@ -1,4 +1,4 @@
-# Calculadora Simples em C #
+# Calculadora Simples em C-Shap
 
 Este é um pequeno projeto de uma calculadora simples desenvolvida em C#. Ela oferece operações básicas como soma, subtração, multiplicação, divisão e cálculo do resto da divisão (módulo). O programa foi estruturado em três arquivos principais:
 
